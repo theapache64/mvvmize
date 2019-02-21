@@ -10,7 +10,7 @@ A simple shell function to structure your brand new android studio kotlin projec
 
 Paste below function in to your `.bash_rc` file
 
-```
+```sh
 
 function mvvmize () {
 
